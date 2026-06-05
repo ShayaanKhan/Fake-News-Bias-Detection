@@ -99,4 +99,4 @@ GPU training requires CUDA-enabled PyTorch. CPU fallback is automatic.
 
 *Dataset: Wang, W. (2017). "Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection. ACL 2017.*
 
-Note: This repository is being uploaded retroactively. This project was completed at a much earlier date
+Note: This project was initially developed in 2022. This repository is being uploaded retrospectively.
